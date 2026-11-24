@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="tema32_HW_task3/tema32_HW_task3.vcxproj" />
+</Solution>
